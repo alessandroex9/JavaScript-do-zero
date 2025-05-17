@@ -8,4 +8,4 @@ let variavelBooleana = true;
 console.log(typeof variavelDeTexto); //saída: string
 console.log(typeof variavelNumerica); //saída: number
 console.log(typeof variavelIndefinida); //saída: undefined
-console.log(typeof variavelBooleana); //saída: boolean
+console.log(typeof variavelBooleana); //saída: boolean 
