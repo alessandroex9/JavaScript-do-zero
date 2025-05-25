@@ -15,5 +15,3 @@ console.log(arrayVazia3.length);
 arrayVazia3.push(50);
 console.log(arrayVazia3);
 console.log(arrayVazia3.length);
-
-
